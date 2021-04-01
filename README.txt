@@ -1,7 +1,7 @@
 This is the personal MATLAB code repository for C.Walsh, which includes the key
 functions used to generate the data presented in "Beta-bursting in the 
 Retrosplenial Cortex is a neurophysiological correlate of environmental
-novelty which is disrupted in a mouse model of Alzheimer’s disease pathology."
+novelty which is disrupted in a mouse model of Alzheimerâ€™s disease pathology."
 by C.Walsh et al. (WORKING TITLE)
 All of the code here was written by C.Walsh from 2017 to 2021.
 
@@ -11,9 +11,9 @@ Press, New York, 2008.)
 
 Feel free to use any and all of this code for your own uses, but
 When using any of this code in a paper, please, cite this GitHub repository
-https://github.com/cfle/cfle and the paper "Beta-bursting in the 
+https://github.com/cfle/In-Vivo-Ephys-Code and the paper "Beta-bursting in the 
 Retrosplenial Cortex is a neurophysiological correlate of environmental
-novelty which is disrupted in a mouse model of Alzheimer’s disease pathology."
+novelty which is disrupted in a mouse model of Alzheimerâ€™s disease pathology."
 by C.Walsh et al.(WORKING TITLE)
 
 Due to the specific file formatting, data storage, experimental procedure etc,
